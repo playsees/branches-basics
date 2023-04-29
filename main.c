@@ -2,6 +2,7 @@
 int main()
 {
     int a = 10;
-    printf("%d\n");
+    int b = 5;
+    printf("%d\n", a + b);
     return 0;
 }
